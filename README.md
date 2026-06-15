@@ -27,10 +27,4 @@
 |[`presentation/Аналитика ТТ.pptx`](presentation/Аналитика%20ТТ.pptx) | Презентация с выводами |
 | [`dashboard/dashboard_link.txt`](dashboard/dashboard_link.txt) | Ссылка на дашборд |
 
-## Ссылки
-
--  [Скачать Excel](excel_analysis/Transaction_list.xlsx)
--  [Скачать Excel_2](excel_analysis/Transaction_list2.xlsx)
--  [Открыть презентацию (PDF)](presentation/Аналитика%20ТТ.pdf)
--  [Интерактивный дашборд](dashboard/dashboard_link.txt) — откроется по ссылке из файла
 
